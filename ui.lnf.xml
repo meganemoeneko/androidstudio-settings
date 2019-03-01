@@ -1,8 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Yu Gothic UI Regular" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="FONT_FACE" value=".SFNSText-Regular" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
-    <option name="smoothScrolling" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>
